@@ -1,0 +1,204 @@
+{
+    "leftMenu": [
+      {
+        "id": 1,
+        "name": "套餐"
+      },
+      {
+        "id": 2,
+        "name": "单点"
+      },
+      {
+        "id": 3,
+        "name": "热销"
+      },
+      {
+        "id": 4,
+        "name": "荤菜"
+      },
+      {
+        "id": 5,
+        "name": "素菜"
+      },
+      {
+        "id": 6,
+        "name": "小吃"
+      },
+      {
+        "id": 7,
+        "name": "饮品"
+      },
+      {
+        "id": 8,
+        "name": "套餐"
+      },
+      {
+        "id": 9,
+        "name": "其他"
+      },
+      {
+        "id": 10,
+        "name": "套餐"
+      },
+      {
+        "id": 10,
+        "name": "套餐"
+      },
+      {
+        "id": 10,
+        "name": "套餐"
+      },
+      {
+        "id": 10,
+        "name": "套餐"
+      },
+      {
+        "id": 10,
+        "name": "套餐"
+      },
+      {
+        "id": 10,
+        "name": "套餐"
+      },
+      {
+        "id": 10,
+        "name": "套餐"
+      },
+      {
+        "id": 10,
+        "name": "套餐"
+      },
+      {
+        "id": 10,
+        "name": "套餐"
+      },
+      {
+        "id": 10,
+        "name": "套餐"
+      },
+      {
+        "id": 10,
+        "name": "套餐"
+      },
+      {
+        "id": 10,
+        "name": "套餐"
+      },
+      {
+        "id": 10,
+        "name": "套餐"
+      },
+      {
+        "id": 10,
+        "name": "套餐"
+      },
+      {
+        "id": 10,
+        "name": "套餐"
+      }
+    ],
+    "rightVegetable":[{
+      "img":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1516857857733&di=e9cae19dd3cc4c11da8b916ab696f6a9&imgtype=0&src=http%3A%2F%2Fimg3.redocn.com%2Ftupian%2F20141029%2Fdounishalaxiameishi_3344191_small.jpg",
+      "title":"鲜嫩猪脚",
+      "stock":"200",
+      "des":"猪脚好吃 超级好吃",
+      "price":"26",
+      "id":1
+    },{
+      "img": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2193362531,4285563460&fm=27&gp=0.jpg",
+      "title":"鲜嫩猪脚",
+      "stock":"200",
+      "des":"猪脚好吃 超级好吃",
+      "price":"26",
+      "id":2
+    },{
+      "img":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1516858238891&di=0155ae71f55754706d86e6027a77dc69&imgtype=jpg&src=http%3A%2F%2Fimg3.redocn.com%2Ftupian%2F20141122%2Ftudoupiankaomeishi_3485747_small.jpg",
+      "title":"鲜嫩猪脚",
+      "stock":"200",
+      "des":"猪脚好吃 超级好吃",
+      "price":"26",
+      "id":3
+    },{
+      "img":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1516857857733&di=e9cae19dd3cc4c11da8b916ab696f6a9&imgtype=0&src=http%3A%2F%2Fimg3.redocn.com%2Ftupian%2F20141029%2Fdounishalaxiameishi_3344191_small.jpg",
+      "title":"鲜嫩猪脚",
+      "stock":"200",
+      "des":"猪脚好吃 超级好吃",
+      "price":"26",
+      "id":4
+    },{
+      "img": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2193362531,4285563460&fm=27&gp=0.jpg",
+      "title":"鲜嫩猪脚",
+      "stock":"200",
+      "des":"猪脚好吃 超级好吃",
+      "price":"26",
+      "id":5
+    },{
+      "img":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1516857857733&di=e9cae19dd3cc4c11da8b916ab696f6a9&imgtype=0&src=http%3A%2F%2Fimg3.redocn.com%2Ftupian%2F20141029%2Fdounishalaxiameishi_3344191_small.jpg",
+      "title":"鲜嫩猪脚",
+      "stock":"200",
+      "des":"猪脚好吃 超级好吃",
+      "price":"26",
+      "id":6
+    },{
+      "img": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2193362531,4285563460&fm=27&gp=0.jpg",
+      "title":"鲜嫩猪脚",
+      "stock":"200",
+      "des":"猪脚好吃 超级好吃",
+      "price":"26",
+      "id":7
+    },{
+      "img":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1516857857733&di=e9cae19dd3cc4c11da8b916ab696f6a9&imgtype=0&src=http%3A%2F%2Fimg3.redocn.com%2Ftupian%2F20141029%2Fdounishalaxiameishi_3344191_small.jpg",
+      "title":"鲜嫩猪脚",
+      "stock":"200",
+      "des":"猪脚好吃 超级好吃",
+      "price":"26",
+      "id":8
+    }],
+    "orderList":[{
+      "name":"回锅肉",
+      "count":2,
+      "price":58
+    },{
+      "name":"回锅肉",
+      "count":2,
+      "price":58
+    },{
+      "name":"回锅肉",
+      "count":2,
+      "price":58
+    },{
+      "name":"回锅肉",
+      "count":2,
+      "price":58
+    },{
+      "name":"回锅肉",
+      "count":2,
+      "price":58
+    },{
+      "name":"回锅肉",
+      "count":2,
+      "price":58
+    },{
+      "name":"回锅肉",
+      "count":2,
+      "price":58
+    },{
+      "name":"回锅肉",
+      "count":2,
+      "price":58
+    },{
+      "name":"回锅肉",
+      "count":2,
+      "price":58
+    },{
+      "name":"回锅肉",
+      "count":2,
+      "price":58
+    },{
+      "name":"回锅肉",
+      "count":2,
+      "price":58
+    }],
+    "code":0,
+    "msg":"出错了"
+}
